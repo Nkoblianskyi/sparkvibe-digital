@@ -39,7 +39,7 @@ export default function CookieConsent() {
           </p>
         </div>
         <div className="flex space-x-4">
-          <Button variant="outline" className="border-white hover:bg-slate-700" onClick={rejectCookies}>
+          <Button variant="outline" className="border-white hover:bg-slate-700 text-gray-400" onClick={rejectCookies}>
             Reject
           </Button>
           <Button variant="default" onClick={acceptCookies}>
