@@ -35,7 +35,7 @@ export default function Home() {
               <Link href="/contact">Get Started</Link>
             </Button>
             <Button asChild size="lg" variant="outline" className="border-white text-gray-600 hover:bg-white/10">
-              <Link href="/contact">Contact</Link>
+              <Link href="/contact">Contact Us</Link>
             </Button>
           </div>
         </div>
