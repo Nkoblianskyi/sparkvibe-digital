@@ -84,59 +84,10 @@ export default function CookiePolicyPage() {
               from version to version. You can however obtain up-to-date information about blocking and deleting cookies
               via these links:
             </p>
-            <ul>
-              <li>
-                <a
-                  href="https://support.google.com/chrome/answer/95647"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-violet-600 hover:text-violet-800"
-                >
-                  Google Chrome
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-violet-600 hover:text-violet-800"
-                >
-                  Mozilla Firefox
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-violet-600 hover:text-violet-800"
-                >
-                  Microsoft Edge
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-violet-600 hover:text-violet-800"
-                >
-                  Safari
-                </a>
-              </li>
-            </ul>
+          
             <p>
               Please note that restricting cookies may impact the functionality of our website. For more information
               about cookies, visit{" "}
-              <a
-                href="https://www.allaboutcookies.org/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-violet-600 hover:text-violet-800"
-              >
-                www.allaboutcookies.org
-              </a>
               .
             </p>
 
