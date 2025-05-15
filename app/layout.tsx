@@ -23,7 +23,7 @@ export const metadata: Metadata = {
       "SparkVibe Digital is a full-service digital agency specializing in web development, digital marketing, and design services.",
     siteName: "SparkVibe Digital",
   },
-    generator: 'v0.dev'
+
 }
 
 export default function RootLayout({
