@@ -1,0 +1,228 @@
+[
+  {
+    "id": "1",
+    "slug": "seo-services",
+    "title": "SEO Services",
+    "shortDescription": "Our SEO services are designed to improve your website's visibility in search engine results, driving more organic traffic and increasing your online presence.",
+    "fullDescription": "Search Engine Optimization (SEO) is crucial for businesses looking to increase their online visibility and attract more qualified traffic. Our comprehensive SEO services are designed to improve your website's ranking in search engine results pages, drive organic traffic, and increase conversions. We use data-driven strategies and industry best practices to deliver sustainable results that grow your business.",
+    "icon": "search",
+    "benefits": [
+      "Increased visibility in search engine results",
+      "Higher quality organic traffic to your website",
+      "Improved user experience and website performance",
+      "Enhanced brand credibility and authority",
+      "Better ROI compared to paid advertising"
+    ],
+    "process": [
+      {
+        "step": "Keyword Research and Strategy",
+        "description": "Identifying the most valuable and relevant keywords for your business"
+      },
+      {
+        "step": "On-Page SEO Optimization",
+        "description": "Optimizing your website's content, structure, and meta elements"
+      },
+      {
+        "step": "Technical SEO Audits",
+        "description": "Identifying and fixing technical issues that affect search performance"
+      },
+      {
+        "step": "Link Building Strategies",
+        "description": "Building high-quality backlinks to improve domain authority"
+      },
+      {
+        "step": "Local SEO Optimization",
+        "description": "Enhancing visibility for location-based searches"
+      },
+      {
+        "step": "Performance Monitoring",
+        "description": "Tracking rankings, traffic, and conversions to refine strategies"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "slug": "ppc-services",
+    "title": "PPC Services",
+    "shortDescription": "Our PPC services help you create and manage effective pay-per-click advertising campaigns that drive targeted traffic and generate leads.",
+    "fullDescription": "Pay-Per-Click (PPC) advertising offers immediate visibility and precise targeting capabilities that can drive qualified traffic to your website. Our PPC services focus on creating and managing cost-effective campaigns that maximize your return on investment. We handle everything from account setup and keyword research to ad creation, bid management, and ongoing optimization.",
+    "icon": "mouse-pointer",
+    "benefits": [
+      "Immediate visibility in search results and relevant websites",
+      "Precise targeting based on demographics, interests, and behaviors",
+      "Complete control over budget and spending",
+      "Detailed performance data for informed decision-making",
+      "Ability to quickly test and refine marketing messages"
+    ],
+    "process": [
+      {
+        "step": "Google Ads Management",
+        "description": "Creating and optimizing campaigns across Google's advertising network"
+      },
+      {
+        "step": "Social Media Advertising",
+        "description": "Developing targeted campaigns on platforms like Facebook, Instagram, and LinkedIn"
+      },
+      {
+        "step": "Display Advertising",
+        "description": "Creating visual ads that appear on websites across the internet"
+      },
+      {
+        "step": "Remarketing Campaigns",
+        "description": "Targeting users who have previously visited your website"
+      },
+      {
+        "step": "Ad Performance Analysis",
+        "description": "Analyzing campaign data to optimize performance and ROI"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "slug": "affiliate-services",
+    "title": "Affiliate Services",
+    "shortDescription": "Our affiliate marketing services help you build and manage successful affiliate programs that expand your reach and increase sales.",
+    "fullDescription": "Affiliate marketing is a powerful way to extend your reach and drive sales through partnerships with influencers and content creators. Our affiliate marketing services help you establish, grow, and manage successful affiliate programs that align with your business goals. We handle everything from program setup and affiliate recruitment to tracking, reporting, and relationship management.",
+    "icon": "users",
+    "benefits": [
+      "Expanded reach through partner networks",
+      "Performance-based model that minimizes risk",
+      "Access to new markets and audiences",
+      "Increased brand awareness and credibility",
+      "Scalable growth without proportional cost increases"
+    ],
+    "process": [
+      {
+        "step": "Affiliate Program Setup",
+        "description": "Creating the structure, terms, and technical foundation for your program"
+      },
+      {
+        "step": "Affiliate Recruitment",
+        "description": "Identifying and onboarding partners who align with your brand"
+      },
+      {
+        "step": "Program Management",
+        "description": "Handling day-to-day operations and program optimization"
+      },
+      {
+        "step": "Performance Tracking",
+        "description": "Monitoring affiliate activity, conversions, and commission payments"
+      },
+      {
+        "step": "Affiliate Relationship Management",
+        "description": "Building and maintaining strong relationships with your affiliates"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "slug": "content-services",
+    "title": "Content Services",
+    "shortDescription": "Our content marketing services help you create and distribute valuable, relevant content that attracts and engages your target audience.",
+    "fullDescription": "Content marketing is essential for building brand authority, engaging your audience, and driving organic traffic. Our content services focus on creating high-quality, strategic content that resonates with your target audience and supports your business objectives. From blog posts and articles to videos and infographics, we develop content that informs, entertains, and converts.",
+    "icon": "file-text",
+    "benefits": [
+      "Increased organic traffic through valuable content",
+      "Enhanced brand authority and thought leadership",
+      "Improved engagement and audience relationships",
+      "Support for sales and conversion processes",
+      "Long-term value that continues to perform over time"
+    ],
+    "process": [
+      {
+        "step": "Content Strategy Development",
+        "description": "Creating a comprehensive plan aligned with your business goals"
+      },
+      {
+        "step": "Blog Content Creation",
+        "description": "Writing informative, engaging blog posts that attract and retain readers"
+      },
+      {
+        "step": "Copywriting Services",
+        "description": "Developing persuasive copy for websites, emails, and marketing materials"
+      },
+      {
+        "step": "Content Distribution",
+        "description": "Sharing content through appropriate channels to maximize reach"
+      },
+      {
+        "step": "Content Performance Analysis",
+        "description": "Measuring engagement, conversions, and other key metrics"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "slug": "social-media-services",
+    "title": "Social Media Services",
+    "shortDescription": "Our social media marketing services help you build your brand presence and engage with your audience on various social platforms.",
+    "fullDescription": "Social media offers unparalleled opportunities to connect with your audience, build brand awareness, and drive engagement. Our social media services help you develop and implement effective strategies across relevant platforms. We handle everything from content creation and community management to paid advertising and performance analysis.",
+    "icon": "share-2",
+    "benefits": [
+      "Increased brand awareness and recognition",
+      "Direct engagement with your target audience",
+      "Improved customer loyalty and retention",
+      "Valuable insights into audience preferences and behaviors",
+      "Support for other marketing initiatives"
+    ],
+    "process": [
+      {
+        "step": "Social Media Strategy",
+        "description": "Developing a tailored approach based on your goals and audience"
+      },
+      {
+        "step": "Content Creation and Curation",
+        "description": "Producing engaging posts, images, and videos for your platforms"
+      },
+      {
+        "step": "Community Management",
+        "description": "Monitoring and responding to comments, messages, and mentions"
+      },
+      {
+        "step": "Social Media Advertising",
+        "description": "Creating and managing targeted paid campaigns"
+      },
+      {
+        "step": "Performance Analytics",
+        "description": "Tracking engagement, reach, and conversions to refine strategies"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "slug": "digital-marketing",
+    "title": "Digital Marketing",
+    "shortDescription": "Our comprehensive digital marketing services help you develop and implement effective strategies to grow your business online.",
+    "fullDescription": "Digital marketing encompasses a wide range of tactics and channels that work together to build your online presence and drive business growth. Our comprehensive digital marketing services provide an integrated approach that leverages the right mix of strategies for your specific goals. We develop data-driven plans that maximize your marketing ROI and deliver measurable results.",
+    "icon": "trending-up",
+    "benefits": [
+      "Cohesive strategy across all digital channels",
+      "Data-driven decision making and optimization",
+      "Efficient resource allocation based on performance",
+      "Competitive advantage through strategic positioning",
+      "Scalable approach that grows with your business"
+    ],
+    "process": [
+      {
+        "step": "Digital Strategy Development",
+        "description": "Creating a comprehensive plan aligned with your business objectives"
+      },
+      {
+        "step": "Market Research",
+        "description": "Analyzing your industry, competitors, and target audience"
+      },
+      {
+        "step": "Competitor Analysis",
+        "description": "Identifying opportunities and threats in your competitive landscape"
+      },
+      {
+        "step": "Campaign Management",
+        "description": "Executing and optimizing marketing initiatives across channels"
+      },
+      {
+        "step": "Performance Reporting",
+        "description": "Tracking and analyzing results to demonstrate ROI and inform strategy"
+      }
+    ]
+  }
+]

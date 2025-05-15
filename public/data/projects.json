@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "slug": "e-commerce-platform-redesign",
+    "title": "E-commerce Platform Redesign",
+    "category": "Web Development",
+    "summary": "A complete redesign and development of an e-commerce platform resulting in 45% increase in conversion rates.",
+    "description": "A lifestyle brand needed to modernize their online store to better showcase their products and improve the user experience.",
+    "challenge": "The client was struggling with low conversion rates, high cart abandonment, and a website that didn't reflect their brand identity. The mobile experience was particularly problematic, with users finding it difficult to navigate and complete purchases.",
+    "solution": "We redesigned the entire e-commerce experience with a focus on mobile-first design, streamlined checkout process, improved product discovery, and brand-aligned visuals. The new platform was built using cutting-edge technologies for optimal performance and scalability.",
+    "results": [
+      "45% increase in conversion rate",
+      "32% decrease in cart abandonment",
+      "58% improvement in mobile engagement",
+      "123% increase in average order value"
+    ],
+    "image": "/b2faf263f78700a043205f395c5bedc8.jpg",
+    "tags": ["E-commerce", "UI/UX Design", "Web Development", "Mobile Optimization"]
+  },
+  {
+    "id": "2",
+    "slug": "digital-marketing-campaign",
+    "title": "Integrated Digital Marketing Campaign",
+    "category": "Digital Marketing",
+    "summary": "A comprehensive digital marketing strategy that generated a 267% return on ad spend.",
+    "description": "A home services business needed to establish their online presence and generate qualified leads in a competitive market.",
+    "challenge": "The client had minimal online visibility, no clear digital strategy, and was relying primarily on word-of-mouth referrals. They needed to reach new customers and establish their brand in a crowded marketplace.",
+    "solution": "We developed a multi-channel digital marketing strategy including a new website, SEO optimization, PPC advertising, social media campaigns, and content marketing. The approach was data-driven, with continuous optimization based on performance metrics.",
+    "results": [
+      "267% return on advertising spend",
+      "189% increase in qualified leads",
+      "78% improvement in search visibility",
+      "43% reduction in cost per acquisition"
+    ],
+    "image": "/placeholder.svg?height=600&width=800&query=digital marketing campaign analytics dashboard",
+    "tags": ["Digital Marketing", "PPC", "SEO", "Content Strategy", "Lead Generation"]
+  },
+  {
+    "id": "3",
+    "slug": "saas-application-design",
+    "title": "SaaS Application UX/UI Design",
+    "category": "UX/UI Design",
+    "summary": "Redesigned user interface for a SaaS platform, increasing user retention by 37%.",
+    "description": "A B2B software company needed to improve their application's user experience to reduce churn and increase customer satisfaction.",
+    "challenge": "The client's software was feature-rich but difficult to navigate, leading to low adoption rates and high customer support costs. Users were not utilizing the full potential of the platform due to usability issues.",
+    "solution": "We conducted user research, created user personas, and completely redesigned the application interface. The new design focused on simplifying workflows, improving information architecture, and creating an intuitive experience that highlighted the platform's most valuable features.",
+    "results": [
+      "37% increase in user retention",
+      "52% reduction in support tickets",
+      "41% improvement in feature adoption",
+      "29% faster completion of key tasks"
+    ],
+    "image": "/placeholder.svg?height=600&width=800&query=saas dashboard user interface design",
+    "tags": ["UX/UI Design", "SaaS", "User Research", "Interaction Design"]
+  },
+  {
+    "id": "4",
+    "slug": "content-strategy-implementation",
+    "title": "Content Strategy & Implementation",
+    "category": "Content Creation",
+    "summary": "Developed and executed a content strategy that increased organic traffic by 124%.",
+    "description": "A professional services firm needed to establish thought leadership and drive more qualified leads through content marketing.",
+    "challenge": "The client was struggling to attract and engage their target audience online. Their existing content was inconsistent, lacked strategic direction, and wasn't effectively addressing their audience's needs or pain points.",
+    "solution": "We created a comprehensive content strategy built around key industry topics and audience personas. This included a content calendar, style guide, and distribution plan. We then produced high-quality articles, case studies, whitepapers, and videos aligned with the client's expertise and audience interests.",
+    "results": [
+      "124% increase in organic traffic",
+      "87% improvement in time on site",
+      "156% growth in newsletter subscribers",
+      "63% more inbound leads attributed to content"
+    ],
+    "image": "/placeholder.svg?height=600&width=800&query=content marketing strategy planning",
+    "tags": ["Content Strategy", "Content Creation", "SEO", "Thought Leadership"]
+  }
+]
