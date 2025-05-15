@@ -46,11 +46,6 @@ export default function Footer() {
                 </LinkWrapper>
               </li>
               <li>
-                <LinkWrapper href="/projects" className="hover:text-white">
-                  Projects
-                </LinkWrapper>
-              </li>
-              <li>
                 <LinkWrapper href="/blog" className="hover:text-white">
                   Blog
                 </LinkWrapper>
